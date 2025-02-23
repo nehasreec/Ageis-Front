@@ -1,3 +1,40 @@
+# **Aegis Track - Anti-Doping System**
+
+🚀 **Aegis Track** is a centralized web application designed to analyze athletes’ doping status using medical, biological, travel, and financial data. The system enables analysts to review whistleblower reports, flag suspicious cases, and assign investigators for further medical tests, ensuring transparent and data-driven doping detection.
+
+## **🌟 Features**
+- 🏆 **Whistleblower Reports** – Securely submit and track doping-related reports.
+- 📊 **Data Analysis** – Utilize athlete data to identify potential doping violations.
+- 🔍 **Case Management** – Admin assigns cases to investigators for medical testing.
+- 🔐 **Secure & Scalable** – Built with authentication and real-time updates.
+
+## **🛠️ Tech Stack**
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+
+## **🚀 Installation & Setup**
+1. **Clone the Repository:**  
+   ```bash
+   git clone https://github.com/nehasreec/Ageis-Front.git
+   cd Ageis-Front
+   ```
+2. **Install Dependencies:**  
+   ```bash
+   npm install
+   ```
+3. **Run the Application:**  
+   ```bash
+   npm start
+   ```
+
+## **📜 License**
+This project is licensed under the MIT License.
+
+## **🤝 Contributing**
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
